@@ -835,10 +835,10 @@
 ), args: args.named())
 
 /// Tracing Command: Drop in Y direction until intersecting the line p1-p2
-#let DropY(p1, p2, ..args) = (type: "drop-y", p1: p1, p2: p2, args: args.named())
+#let drop-y(p1, p2, ..args) = (type: "drop-y", p1: p1, p2: p2, args: args.named())
 
 /// Tracing Command: Drop in X direction until intersecting the line p1-p2
-#let DropX(p1, p2, ..args) = (type: "drop-x", p1: p1, p2: p2, args: args.named())
+#let drop-x(p1, p2, ..args) = (type: "drop-x", p1: p1, p2: p2, args: args.named())
 
 /// Tracing Command: Jump Right (Lift pen)
 #let JR(len) = (type: "jump", d: (len, 0))
