@@ -1,4 +1,4 @@
-#import "@preview/cetz:0.4.3"
+#import "@preview/cetz:0.4.2"
 #import cetz.draw: *
 #import cetz.vector
 
