@@ -157,6 +157,5 @@ bed(move(w.w3, dx: 6, dy: -3.1), scale: 2, rotation: 270deg, size: "king", )
 
 // 12. DRAW THE RULER BORDER
 drafting-ruler(28,25, step: 1, )
-})```
-
-
+})
+```
