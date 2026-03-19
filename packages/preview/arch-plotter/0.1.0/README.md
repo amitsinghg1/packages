@@ -4,7 +4,7 @@
 
 Whether you are drafting interior floor plans with dynamic walls and furniture, or generating legally accurate surveying documents with automatic area calculations and peg schedules, Arch-Plotter handles the complex geometry so you can focus on drafting.
 
-[📖 Read the Reference Manual to get started (PDF)](https://github.com/amitsinghg1/arch-plotter/blob/main/Manual.typ)
+[📖 Read the Reference Manual to get started (PDF)](https://github.com/amitsinghg1/arch-plotter/blob/main/Manual.pdf)
 
 ## Features
 * **Two Distinct Engines:** A dedicated toolset for Architecture (buildings/interiors) and Plotting (land surveying/subdivisions).
